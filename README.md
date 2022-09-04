@@ -11,5 +11,8 @@ project theme is "Social Welfare"
 "link"
 ## Team Details
 ### Team number = 43
-### Present members = 3(Aayushi Zutshi, Shubham Bhanot, Sandeep Singh)
+### Present members = 3
+### Aayushi Zutshi(UID:DCH-8106)
+### Shubham Bhanot(UID:DCH-8083)
+### Sandeep Singh(UID:DCH-8084)
 ### Team name = Green_hornet
