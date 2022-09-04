@@ -10,4 +10,6 @@ project theme is "Social Welfare"
 ## active link
 "link"
 ## Team Details
-Team details (43, present members = 3,team name = green_hornet)
+### Team number = 43
+### Present members = 3
+### Team name = Green_hornet
